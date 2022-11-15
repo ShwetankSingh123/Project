@@ -1,0 +1,40 @@
+div{
+    display: flex;
+    size: 50vw;
+    border-radius: 2px;
+    border: solid 2px red;
+
+}
+
+a:link{
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    
+
+    border: solid 2px blueviolet;
+    padding: 0px 800px 0px 0px;
+}
+
+li{ 
+    margin: 0px 36px 0px 0px;
+    border: solid 2px black;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    display: inline;
+}
+
+nav div{
+    align-self: center;
+    display: flex;
+    
+    display: inline;
+    border: solid 2px green;
+}
+
+ul{
+    border: solid 2px greenyellow;
+}
