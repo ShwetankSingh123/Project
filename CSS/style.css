@@ -140,7 +140,7 @@ background: #ff3604;
 
 }
 /* 3d spline insertion */
-.spline-frame iframe{
+.spline-frame{
     background-attachment: fixed;
 
 }
@@ -158,15 +158,28 @@ background: #ff3604;
 }
 
 .first{
+    background-image: url(https://source.unsplash.com/Mf23RF8xArY);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
 
+    background-repeat: no-repeat;
 }
 
 .second{
-background-image: url(https://source.unsplash.com/1400x900/?nature.water;);
+background-image: url(https://source.unsplash.com/UZIWWE0h6yE);
 height: 100vh;
 width: 100%;
 background-position: center;
 background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+.des{
+    height: 500px;
+    width: 100%;
 }
 
 
