@@ -139,6 +139,40 @@ background: #ff3604;
 
 
 }
+/* 3d spline insertion */
+.spline-frame iframe{
+    background-attachment: fixed;
+
+}
+
+/* description */
+.description{
+    padding-left: 10px;
+    border-radius: 40px 40px 0px 0px;
+    background-color: grey;
+    height: 900px;
+}
+
+.description > h1{
+    padding-top: 100px;
+}
+
+.first{
+
+}
+
+.second{
+background-image: url(https://source.unsplash.com/1400x900/?nature.water;);
+height: 100vh;
+width: 100%;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+
+
+
+
 
 
 
