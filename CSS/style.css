@@ -150,10 +150,11 @@ background: #ff3604;
     padding-left: 10px;
     border-radius: 40px 40px 0px 0px;
     background-color: grey;
-    height: 900px;
+    height: 100vh;
 }
 
 .description > h1{
+    margin-top: 0px;
     padding-top: 100px;
 }
 
